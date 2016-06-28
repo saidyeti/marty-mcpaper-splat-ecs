@@ -1,0 +1,14 @@
+{
+  "door_crash": "sounds/door_crash.mp3",
+  "marty_mcpaper_theme": "sounds/marty_mcpaper_theme.mp3",
+  "paper_rustle_01": "sounds/paper_rustle_01.mp3",
+  "paper_rustle_02": "sounds/paper_rustle_02.mp3",
+  "paper_thud": "sounds/paper_thud.mp3",
+  "success_01": "sounds/success1.mp3",
+  "success_02": "sounds/success2.mp3",
+  "timer_warning_beep": "sounds/timer_warning_beep.mp3",
+  "window_shatter_01": "sounds/window_shatter_01.mp3",
+  "window_shatter_02": "sounds/window_shatter_02.mp3",
+  "window_shatter_03": "sounds/window_shatter_03.mp3",
+  "woosh": "sounds/woosh.mp3"
+}
